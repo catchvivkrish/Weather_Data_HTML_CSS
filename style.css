@@ -26,18 +26,8 @@ h3{
   margin-left: 15px;
   margin-bottom: 0px;
   font-size: 18px;
-  color: teal;
+  color: #185578;
   text-align: left;
-}
-
-.copyright{
-	margin-top: 80px;
-	text-align: center;
-	background: gray;
-	border-top: 5px solid teal;
-	padding: 10px;
-	font-size: 14px;
-	color: black;
 }
 
 .navbar-brand{
@@ -74,4 +64,23 @@ h4{
 #1{
 text-align: center;
 color: red;
+}
+
+
+footer {
+    position: relative;
+    margin-top: -10px; /* negative value of footer height */
+    height: 35px;
+    text-align: center;
+    padding: 5px 0;
+	color: #fff;
+    background-color: #033C73;
+    border-color: #033C73;
+	margin-top: 80px;
+	font-size: 14px;
+} 
+
+
+p{
+color: #2FA4E7 !important;
 }
